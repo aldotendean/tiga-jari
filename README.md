@@ -8,7 +8,7 @@ This is the Tiga Jari effect, to raise awareness about the problems currently in
 - On Mac, Apple Silicon and VisionBackground TOP Plugin by stosumarte - [download here](https://github.com/stosumarte/VisionBackgroundTOP)
 
 ## How to Use
-1. Make sure you have [MediaPipe's Plugin](https://github.com/torinmb/mediapipe-touchdesigner) and [VisionBackground's Plugin](https://github.com/stosumarte/VisionBackgroundTOP) if you're on Mac. Follow their respective tutorials on how to install.
+1. Have TouchDesigner ready, then make sure you have [MediaPipe's Plugin](https://github.com/torinmb/mediapipe-touchdesigner) and [VisionBackground's Plugin](https://github.com/stosumarte/VisionBackgroundTOP) if you're on Mac with Apple Silicon. Follow their respective tutorials on how to install.
 2. Download tigajari's project file.
 3. Install the font inside the FONTS folder.
 4. Copy the MediaPipe.tox and hand_tracking.tox from MediaPipe's download into the toxes folder.
